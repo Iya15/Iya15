@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alliah Alarcon</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-- 🔭 I’m currently working on **my personal portfolio.**
+- 🔭 I’m currently working on **my personal projects.**
 
-- 🌱 I’m currently learning **Laravel and other frameworks.**
+- 🌱 I’m currently learning **everything all at once, depedns on the mood**
 
 - 📫 How to reach me **alliahalarcon15@gmail.com**
 
